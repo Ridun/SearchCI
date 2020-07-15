@@ -1,0 +1,2 @@
+cd D:\Eclipsedirectory\CIStudy\MavenJenkinsGit
+mvn clean install
